@@ -74,21 +74,21 @@ T-test for lot 2 vs. pop. mean of 1500 PSI - no statistical difference.
 - Vehicle Weight: We need the vehicle weight for all current cars. This can be converted into ‘buckets’ or categories. For example, for cars weighing 0.5 - 2.0 tons (e.g. 1000 - 4000 pounds), we would need twelve 250 pound weight ‘categories’.
 
 
-What is the null hypothesis or alternative hypothesis?
+2. What is the null hypothesis or alternative hypothesis?
 
 Null Hypothesis: The cars in the same class have the same fuel efficiencies.
 
 Alternative Hypothesis: Not all cars in the same class have the same fuel efficiences. 
 
 
-What statistical test would will be used to test the hypothesis? And why?
+3. What statistical test would will be used to test the hypothesis? And why?
 
 We would use ANOVA test. It would identify statistical difference between the distribution means from multiple samples.
 
 
-What data is needed to run the statistical test?
+4. What data is needed to run the statistical test?
 
-Model ID, Manufacturer, fuel efficiency data, class type data
+Model ID, Manufacturer, fuel efficiency data, class type data.
 It will need fuel efficiency data from 50 individual cars.
 Then we can create a sample size of data for each car in the class type.
 For example, if there were 10 cars in the class type, then we can have a top of 500 data points collected for each fuel efficiency type.
